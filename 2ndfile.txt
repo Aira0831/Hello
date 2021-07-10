@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 70CB-AB0B
+
+ Directory of C:\Users\genuinecomputer\Desktop\Hello
+
+10-07-2021  22:23    <DIR>          .
+10-07-2021  22:23    <DIR>          ..
+10-07-2021  22:23                 0 2ndfile.txt
+10-07-2021  21:55               930 Hello.class
+10-07-2021  13:33               180 Hello.java
+10-07-2021  22:13               452 newfile.txt
+               4 File(s)          1,562 bytes
+               2 Dir(s)  16,117,952,512 bytes free
